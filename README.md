@@ -71,8 +71,8 @@ sudo yum install feiniao-accelerator
 ```
 
 #### Android / iOS
-- Android: [Google Play](https://play.google.com/store/apps/feiniao) | [APK下载](https://feiniao-vpn.com/download/android)
-- iOS: [App Store](https://apps.apple.com/app/feiniao)
+- Android: [Google Play](https://www.feiniao-vpn.com) | [APK下载](https://www.feiniao-vpn.com)
+- iOS: [App Store](https://www.feiniao-vpn.com)
 
 ### ⚙️ 配置说明
 
@@ -210,8 +210,8 @@ systemctl restart feiniao-accelerator
 
 - 官网: [https://feiniao-vpn.com](https://feiniao-vpn.com)
 - 邮箱: support@feiniao-vpn.com
-- Telegram: [@feiniao_support](https://t.me/feiniao_support)
-- 文档: [https://docs.feiniao-vpn.com](https://docs.feiniao-vpn.com)
+- Telegram: [@feiniao_support](https://www.feiniao-vpn.com)
+- 文档: [https://docs.feiniao-vpn.com](https://www.feiniao-vpn.com)
 
 ---
 
@@ -280,8 +280,8 @@ sudo yum install feiniao-accelerator
 ```
 
 #### Android / iOS
-- Android: [Google Play](https://play.google.com/store/apps/feiniao) | [APK Download](https://feiniao-vpn.com/download/android)
-- iOS: [App Store](https://apps.apple.com/app/feiniao)
+- Android: [Google Play](https://www.feiniao-vpn.com) | [APK Download](https://www.feiniao-vpn.com)
+- iOS: [App Store](https://www.feiniao-vpn.com)
 
 ### ⚙️ Configuration
 
@@ -419,8 +419,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Website: [https://feiniao-vpn.com](https://feiniao-vpn.com)
 - Email: support@feiniao-vpn.com
-- Telegram: [@feiniao_support](https://t.me/feiniao_support)
-- Documentation: [https://docs.feiniao-vpn.com](https://docs.feiniao-vpn.com)
+- Telegram: [@feiniao_support](https://t.me/)
+- Documentation: [https://www.feiniao-vpn.com](https://www.feiniao-vpn.com)
 
 ---
 
